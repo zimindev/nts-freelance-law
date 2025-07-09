@@ -1,3 +1,41 @@
+✅ **1. Plan ahead**
+— Every evening, write down 3 key tasks for tomorrow.
+— Set a specific time for each one.
+
+✅ **2. Work smart**
+— 45 min work + 15 min break (“Pomodoro”).
+— During breaks: drink water, move, get some fresh air.
+
+✅ **3. Start with a ritual**
+— Coffee, 3 minutes of silence, a clean desk, set a timer — and go.
+
+✅ **4. Have a dedicated work zone**
+— Even a small desk = your office.
+— After work, clear everything away.
+
+✅ **5. Cut distractions**
+— Use airplane mode during focus sessions.
+— Messengers can wait.
+
+✅ **6. Review your day**
+— What did you complete? What needs to be moved? Why?
+— Reflection = a better tomorrow.
+
+✅ **7. Reward yourself**
+— Finished your work? Get a treat (a show, coffee, a game).
+
+📝 **+ Tools:**
+— Timers (Pomofocus, Forest).
+— Phone reminders.
+— Task tracker (Notion or simple paper).
+
+📌 **The main point:**
+7 days in a row — it gets easier.
+A month — and you’re much more organized.
+A quarter — and you’re earning more.
+
+---
+
 ✅ **1. Плануй заздалегідь**
 — Щовечора пиши 3 ключові завдання на завтра.
 — Визнач конкретний час для них.
@@ -35,9 +73,6 @@
 Квартал — і заробляєш більше.
 
 ---
-
-Якщо хочеш, зроблю ще коротшу версію на 1 сторінку (для роздруку або робочого столу). Дати? 💪
-
 
 # 📌 Core Rules for Productive Freelancing  
 
